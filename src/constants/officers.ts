@@ -1,0 +1,88 @@
+import { TeamItem } from "@/components/ui/a-grid";
+
+export const teamMembers: TeamItem[] = [
+  {
+    image: "/officers/asim.jpg",
+    title: "Asim Siddiqi",
+    subtitle: "President",
+    linkedin: "https://www.linkedin.com/in/asim-siddiqi/",
+    email: "as544195@ucf.edu",
+  },
+  {
+    image: "/officers/dylan.jpg",
+    title: "Dylan Wilkins",
+    subtitle: "Internal Vice President",
+    linkedin: "https://www.linkedin.com/in/dylwilks/",
+    email: "dy138098@ucf.edu",
+  },
+  {
+    image: "/officers/nickie.jpg",
+    title: "Nickie Sethi",
+    subtitle: "External Vice President",
+    linkedin: "https://www.linkedin.com/in/nickie-sethi/",
+    email: "ni491034@ucf.edu",
+  },
+  {
+    image: "/officers/nick.jpg",
+    title: "Nick Nimroozi",
+    subtitle: "Webmaster",
+    linkedin: "https://www.linkedin.com/in/nick-nimroozi/",
+    email: "n1ck@ucf.edu",
+  },
+  {
+    image: "/officers/sahif.jpg",
+    title: "Md Sahif Hossain",
+    subtitle: "Secretary",
+    linkedin: "https://www.linkedin.com/in/md-sahif-h/",
+    email: "md122011@ucf.edu",
+  },
+  {
+    image: "/officers/yousef.jpg",
+    title: "Yousef Awad",
+    subtitle: "Treasurer",
+    linkedin: "https://www.linkedin.com/in/yousefalaaawad/",
+    email: "yousef@ucf.edu",
+  },
+  {
+    image: "/officers/david.jpg",
+    title: "David Escobar",
+    subtitle: "Workshops Director",
+    linkedin: "https://www.linkedin.com/in/david-b-escobar/",
+    email: "da946259@ucf.edu",
+  },
+  {
+    image: "/peter_griffin.jpg",
+    title: "Tristan Linardos",
+    subtitle: "Projects Director",
+    linkedin: "https://www.linkedin.com/in/tristanjohnlinardos/",
+    email: "tr268722@ucf.edu",
+  },
+  {
+    image: "/officers/zen.jpg",
+    title: "Zen Lambertus",
+    subtitle: "Events Director",
+    linkedin: "https://www.linkedin.com/in/zenlambertus/",
+    email: "ZenL@ucf.edu",
+  },
+  {
+    image: "/officers/nicole.jpg",
+    title: "Nicole Baez Espinosa",
+    subtitle: "Creative Director",
+    linkedin: "https://www.linkedin.com/in/nicole-esp/",
+    email: "ni202133@ucf.edu",
+  },
+  {
+    image: "/officers/ozair.png",
+    title: "Ozair Ahmed",
+    subtitle: "Outreach Director",
+    linkedin: "https://www.linkedin.com/in/ozair-ahmed-ucf/",
+    email: "oz133581@ucf.edu",
+  },
+  {
+    image: "/officers/sydney.jpg",
+    title: "Sydney Hamood",
+    subtitle: "Socials Director",
+    linkedin: "https://www.linkedin.com/in/sydney-hamood-9831561b9/",
+    email: "sy878902@ucf.edu",
+  },
+];
