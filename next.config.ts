@@ -5,7 +5,3 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
-
-module.exports = {
-  distDir: "_next",
-};
